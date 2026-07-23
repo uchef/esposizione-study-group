@@ -1,0 +1,6 @@
+{
+  "name": "esposizione",
+  "description": "A global community platform for live Bible study circles, real-time sync chat, scripture reading, and secure group management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
